@@ -26,9 +26,9 @@ public class ProceduleMesh : MonoBehaviour {
 		
 	}
     void MakeMeshData() {
-        verticles = new Vector3[]{new Vector3(0,0,0), new Vector3(0, 0, 1) , new Vector3(1, 0, 0) };
+        verticles = new Vector3[]{new Vector3(0,0,0), new Vector3(0, 0, 1) , new Vector3(1, 0, 0) , new Vector3(1, 0, 1) };
 
-        triangles = new int[] { 0, 1, 2 };
+        triangles = new int[] { 0, 1, 2 ,2,1,3};
     }
 
     void UpdateMesh() {

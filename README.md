@@ -1,3 +1,3 @@
-# MakingMesh
+# UnityARKitSample
 
-Make Some 3D Objects,Meshs using Unity,, 
+Test project with Udacity Unity ARKit course 

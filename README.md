@@ -1,3 +1,3 @@
-# UnityARKitSample
+# UnityUIPratice
 
-Test project with Udacity Unity ARKit course 
+Test project with Udacity Unity ARKit and some tutorials 

@@ -1,3 +1,2 @@
-# UnityUIPratice
-
-Test project with Udacity Unity ARKit and some tutorials 
+# UnityUITest
+- Unity Test project with Some UI modules

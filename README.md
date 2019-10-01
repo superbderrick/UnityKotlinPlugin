@@ -1,3 +1,3 @@
-# CameraFilter
+# DepthTextureSample
 
-- Android Camera Filter app with kotlin and NDK
+- DepthTexture sample project with Unity

@@ -1,3 +1,3 @@
-# DepthTextureSample
+# KotlinWithOpenGL
 
-- DepthTexture sample project with Unity
+- Some samples to learn OpenGL with Kotlin

@@ -1,3 +1,3 @@
-# KotlinWithOpenGL
+# KotlinCameraPreview
 
-- Some samples to learn OpenGL with Kotlin
+- Simple android camera app with opengl and kotlin

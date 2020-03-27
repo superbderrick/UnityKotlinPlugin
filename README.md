@@ -1,3 +1,3 @@
-# KotlinCameraPreview
+# UnityKotlinPlugin
 
-- Simple android camera app with opengl and kotlin
+- Unity native plugin sample with Android Kotlin
